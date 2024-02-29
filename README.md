@@ -7,7 +7,7 @@ This program converts directories from RGB -> GrayScale
     <img src="https://github.com/AlessandroB1298/grayscale/assets/98426727/fd9ad28a-2743-40dd-825e-c9aacaca20fd" width="450" alt="Grayscale" />
 </p>
 <p align="center">
+        <b>Grayscale</b>
     <b>RGB</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    <b>Grayscale</b>
 </p>
 
