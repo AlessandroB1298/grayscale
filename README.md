@@ -22,7 +22,7 @@ This program converts directories from RGB -> GrayScale
   cv.imwrite(output_path, gray_img)
 
 ```
-##This program only handles directories and check this list to make sure you are using the correct versions
+### This program only handles directories and check this list to make sure you are using the correct versions
 
 ```ruby
 numpy==1.26.4
