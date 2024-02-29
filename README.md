@@ -13,3 +13,12 @@ This program converts directories from RGB -> GrayScale
     </td>
   </tr>
 </table>
+
+
+## This program uses opencv to convert images from RBG to Grayscale 
+```ruby
+  gray_img = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
+            output_path = os.path.join(output_folder, f) # join to the output path
+            cv.imwrite(output_path, gray_img)
+
+```
